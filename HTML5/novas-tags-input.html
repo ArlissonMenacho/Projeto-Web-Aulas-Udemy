@@ -5,10 +5,45 @@
 </head>
 <body>
 	<form>
+		<!-- AutoFocus a tag deixa marcada na caixa -->
+		<!-- Requerid  a tag faz ser obrigatoria -->
+
 		<!-- Associar Label com os elementos - Boa prática -->
 		<label for="nome">Nome</label>
-		<input type="text" id="nome">
+		<input type="text" id="nome" placeholder="Informe o Seu Nome !">
 		<br><br>
+
+		<!-- Novos Inputs e atributos HTML5 -->
+		<!-- Email -->
+		<label for="email">Email</label>
+		<input type="email" id="email" placeholder="Informe Seu Email !">
+		<br><br>
+		<!-- numero -->
+		<label for="num">Número</label>
+		<input type="number" id="num" min="18" max="35" placeholder="Informe um Número de 18 a 35 !">	<!-- Step="2" significa que pula de dois em 2 -->
+		<br><br>
+
+		<!-- URL -->
+		<label for="url">URL</label>
+		<input type="url" id="url" placeholder="https://www.google.com.br">
+		<br><br>
+
+		<label for="pesquisa">Pesquisar</label>
+		<input type="search" id="pesquisa" placeholder="Digite Algo !">
+		<br><br>
+
+		<label for="range">Range</label>
+		<input type="range" id="range" min="18" max="35" value="25" placeholder="Digite Algo !">
+		<br><br>
+
+		<label for="data">data</label>
+		<input type="date" id="data">
+		<br><br>
+
+		<label for="cor">cor</label>
+		<input type="color" id="cor">
+		<br><br>
+
 		<input type="submit" name="enviar">
 	</form>
 </body>

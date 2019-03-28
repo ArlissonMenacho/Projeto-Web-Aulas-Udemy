@@ -1,0 +1,338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ani",
+				"animation\tproperty"
+			],
+			[
+				"animationd",
+				"animation-direction\tproperty"
+			],
+			[
+				"anim",
+				"animation-delay\tproperty"
+			],
+			[
+				"backgo",
+				"background\tproperty"
+			],
+			[
+				"BOX",
+				"box-shadow\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"fotn",
+				"font-size\tproperty"
+			],
+			[
+				"magi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"F",
+				"f3f3f3"
+			],
+			[
+				"bacgro",
+				"background\tproperty"
+			],
+			[
+				"bagr",
+				"background\tproperty"
+			],
+			[
+				"bacgo",
+				"background\tproperty"
+			],
+			[
+				"fi",
+				"Fixed"
+			],
+			[
+				"abs",
+				"absoluta"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"cle",
+				"clean"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"br",
+				"border-color\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"bor",
+				"border-width\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"para",
+				"paragrafo"
+			],
+			[
+				"he",
+				"hidden\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS3/css/estilo.css",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS3/animacao.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS3/transicoes.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS3/transicoes",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS3/sombras.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS3/degrade-transparencia",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS3/border-box-radius.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS3/css/normalize.css",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS3/normalize.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS3/normalize.css",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/Projeto Final Web - TecBlog/index.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/HTML5/atributos-data-customizados.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/HTML5/novas-tags-input.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/HTML5/js/html5shiv.js",
+		"/D/Arquivos/Donwload's/Antigos/Github/Aulas-HTML-Faculdade/Site Fibra Otica/Contato.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/HTML5/novas-tags.html",
+		"/D/Arquivos/Donwload's/osTicket-v1.10.5/osTicket-v1.10.5/upload/account.php",
+		"/D/wamp64/www/osticket/upload/include/class.ostsession.php",
+		"/D/Arquivos/Donwload's/novas-tags-inputs/novas-tags-inputs.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/Projeto Final Web - TecBlog/css/estilo.css",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/Projeto Final Web - TecBlog/apps.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/Projeto Final Web - TecBlog/eletronicos.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/Projeto Final Web - TecBlog/games.html",
+		"/C/Users/arlis/OneDrive/Área de Trabalho/Projeto-Web-Aulas-Udemy/Projeto Final Web - TecBlog/index.html",
+		"/D/Arquivos/Donwload's/tecblog-parte1/tecblog/css/estilo.css",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/Projeto Final Web - TecBlog/css/css.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/Projeto Final Web - TecBlog/Css/estilo.css",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS/estilo.css",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS/css-externo2.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS/css-externo.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS/posicionamento.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS/links.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS/modelo-caixa.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS/elementos-flutuantes.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS/galeria.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS/formatacao-textos.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS/fontes-cores.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS/bordas.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS/span-div.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/CSS/inline_style.html",
+		"/D/Arquivos/Donwload's/Antigos/Github/Projeto-Web-Aulas-Udemy/Projeto Final Web/Contato.html",
+		"/C/Users/arlis/OneDrive/Área de Trabalho/PrimeiroProjeto/index.html",
+		"/C/Users/arlis/OneDrive/Área de Trabalho/PrimeiroProjeto/contato.html",
+		"/C/Users/arlis/OneDrive/Área de Trabalho/PrimeiroProjeto/fotos.html",
+		"/C/Users/arlis/OneDrive/Área de Trabalho/PrimeiroProjeto/tabela.html",
+		"/C/Users/arlis/OneDrive/Área de Trabalho/PrimeiroProjeto/Não confirmado 148425.crdownload",
+		"/C/Users/arlis/OneDrive/Documentos/Rockstar Games/GTA V/settings.xml",
+		"/C/Users/arlis/OneDrive/Área de Trabalho/PrimeiroProjeto/Grand Theft Auto V.url",
+		"/C/Users/arlis/OneDrive/Área de Trabalho/PrimeiroProjeto/projeto.html",
+		"/C/Users/arlis/OneDrive/Área de Trabalho/PrimeiroProjeto/KKK.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "estilo.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\arlis\\OneDrive\\Documentos\\Rockstar Games\\GTA V\\settings.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
